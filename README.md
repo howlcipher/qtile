@@ -1,1 +1,1 @@
-# qtile
+My qtile current configuration and start up scripts while using it.  The is the allows the configuartion of the qtile WM to run in a way setup and configured by me.  Please store both files in username->.config -> qtile.  Using no configuration file you will get an error and default to the a standard configuration.
